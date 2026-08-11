@@ -1,0 +1,601 @@
+order_id,order_date,region,category,product,customer_segment,quantity,unit_price,discount,revenue
+ORD-10000,2023-07-21,South,Technology,Monitor,Corporate,10,291.24,0.15,2475.54
+ORD-10001,2022-04-06,West,Furniture,Chair,Home Office,9,184.96,0.0,1664.64
+ORD-10002,2022-11-21,West,Furniture,Bookcase,Home Office,6,195.74,0.2,939.55
+ORD-10003,2022-09-06,North,Office Supplies,Pen Set,Corporate,11,21.27,0.0,233.97
+ORD-10004,2022-01-27,East,Technology,Phone,Corporate,2,328.43,0.2,525.49
+ORD-10005,2022-07-14,West,Technology,Monitor,Corporate,6,279.44,0.0,1676.64
+ORD-10006,2022-05-27,North,Furniture,Table,Home Office,8,126.47,0.15,860.0
+ORD-10007,2023-12-06,North,Furniture,Desk,Consumer,10,190.23,0.15,1616.96
+ORD-10008,2022-03-08,North,Technology,Phone,Corporate,3,337.74,0.15,861.24
+ORD-10009,2022-03-21,North,Technology,Monitor,Corporate,1,310.83,0.0,310.83
+ORD-10010,2022-10-04,South,Furniture,Desk,Corporate,7,200.34,0.0,1402.38
+ORD-10011,2023-11-30,North,Technology,Printer,Home Office,2,322.63,0.0,645.26
+ORD-10012,2023-12-08,East,Technology,Printer,Corporate,11,374.48,0.0,4119.28
+ORD-10013,2023-01-25,East,Office Supplies,Paper,Corporate,2,32.29,0.2,51.66
+ORD-10014,2022-04-17,North,Office Supplies,Labels,Consumer,7,33.74,0.0,236.18
+ORD-10015,2023-12-09,West,Furniture,Chair,Home Office,8,197.78,0.0,1582.24
+ORD-10016,2022-01-28,East,Technology,Phone,Home Office,11,328.77,0.0,3616.47
+ORD-10017,2022-02-10,West,Technology,Printer,Home Office,1,307.37,0.0,307.37
+ORD-10018,2023-04-26,South,Furniture,Desk,Consumer,9,191.99,0.15,1468.72
+ORD-10019,2022-07-24,East,Technology,Laptop,Corporate,8,303.61,0.0,2428.88
+ORD-10020,2022-04-21,South,Office Supplies,Labels,Home Office,5,17.59,0.1,79.16
+ORD-10021,2023-09-11,North,Office Supplies,Labels,Consumer,5,31.77,0.0,158.85
+ORD-10022,2023-01-10,South,Technology,Laptop,Home Office,1,274.72,0.0,274.72
+ORD-10023,2022-10-16,East,Technology,Monitor,Consumer,4,436.38,0.0,1745.52
+ORD-10024,2023-11-26,West,Technology,Phone,Consumer,3,443.61,0.0,1330.83
+ORD-10025,2023-07-15,South,Technology,Laptop,Home Office,9,354.07,0.0,3186.63
+ORD-10026,2023-11-05,West,Office Supplies,Binder,Home Office,2,25.02,0.0,50.04
+ORD-10027,2023-07-29,North,Office Supplies,Paper,Consumer,9,29.34,0.1,237.65
+ORD-10028,2022-08-31,South,Technology,Printer,Consumer,7,269.45,0.0,1886.15
+ORD-10029,2023-08-18,West,Furniture,Desk,Home Office,10,140.16,0.0,1401.6
+ORD-10030,2023-04-27,North,Technology,Phone,Corporate,5,439.34,0.0,2196.7
+ORD-10031,2022-03-07,West,Technology,Laptop,Corporate,3,237.86,0.0,713.58
+ORD-10032,2023-06-17,South,Office Supplies,Pen Set,Home Office,10,33.48,0.15,284.58
+ORD-10033,2023-08-19,South,Office Supplies,Paper,Corporate,11,18.32,0.0,201.52
+ORD-10034,2022-07-01,West,Furniture,Desk,Home Office,11,197.45,0.0,2171.95
+ORD-10035,2022-03-25,East,Technology,Phone,Consumer,8,228.72,0.0,1829.76
+ORD-10036,2023-08-16,North,Office Supplies,Labels,Corporate,5,28.19,0.0,140.95
+ORD-10037,2022-06-22,West,Technology,Monitor,Consumer,9,439.06,0.15,3358.81
+ORD-10038,2022-08-21,West,Furniture,Bookcase,Home Office,2,204.95,0.1,368.91
+ORD-10039,2022-11-14,North,Technology,Phone,Home Office,9,252.93,0.1,2048.73
+ORD-10040,2023-02-23,East,Office Supplies,Binder,Corporate,5,28.16,0.0,140.8
+ORD-10041,2023-10-29,East,Office Supplies,Pen Set,Corporate,10,31.56,0.0,315.6
+ORD-10042,2023-10-14,South,Office Supplies,Binder,Corporate,2,17.97,0.0,35.94
+ORD-10043,2023-04-08,East,Furniture,Chair,Corporate,11,173.79,0.0,1911.69
+ORD-10044,2022-03-15,North,Technology,Printer,Corporate,7,253.95,0.0,1777.65
+ORD-10045,2022-08-12,North,Office Supplies,Binder,Corporate,5,26.94,0.0,134.7
+ORD-10046,2022-11-30,West,Furniture,Chair,Home Office,7,220.84,0.0,1545.88
+ORD-10047,2022-05-26,East,Furniture,Chair,Consumer,9,142.52,0.0,1282.68
+ORD-10048,2023-10-24,East,Furniture,Bookcase,Home Office,9,164.61,0.15,1259.27
+ORD-10049,2022-01-15,South,Technology,Laptop,Consumer,5,422.0,0.0,2110.0
+ORD-10050,2023-06-15,East,Office Supplies,Binder,Corporate,1,31.95,0.0,31.95
+ORD-10051,2022-06-18,North,Technology,Printer,Consumer,6,393.67,0.0,2362.02
+ORD-10052,2023-07-01,North,Furniture,Bookcase,Consumer,8,141.84,0.0,1134.72
+ORD-10053,2022-04-05,West,Office Supplies,Labels,Corporate,8,34.94,0.2,223.62
+ORD-10054,2022-10-16,South,Office Supplies,Paper,Corporate,4,20.73,0.1,74.63
+ORD-10055,2022-05-31,West,Office Supplies,Pen Set,Home Office,5,24.12,0.0,120.6
+ORD-10056,2023-01-31,South,Furniture,Desk,Corporate,2,195.05,0.1,351.09
+ORD-10057,2022-07-04,East,Technology,Laptop,Home Office,11,310.78,0.0,3418.58
+ORD-10058,2022-04-19,South,Office Supplies,Labels,Consumer,4,31.94,0.2,102.21
+ORD-10059,2023-05-11,West,Furniture,Bookcase,Consumer,11,140.71,0.0,1547.81
+ORD-10060,2023-07-02,West,Technology,Printer,Home Office,10,428.83,0.0,4288.3
+ORD-10061,2022-07-08,East,Office Supplies,Paper,Consumer,6,18.07,0.0,108.42
+ORD-10062,2022-11-29,North,Technology,Laptop,Consumer,9,446.96,0.15,3419.24
+ORD-10063,2022-02-15,North,Office Supplies,Paper,Consumer,5,21.48,0.0,107.4
+ORD-10064,2022-03-31,North,Furniture,Table,Home Office,2,234.42,0.0,468.84
+ORD-10065,2023-09-16,East,Furniture,Chair,Home Office,3,192.39,0.0,577.17
+ORD-10066,2023-01-27,North,Technology,Monitor,Corporate,11,401.14,0.15,3750.66
+ORD-10067,2022-09-05,West,Furniture,Desk,Consumer,2,249.43,0.2,399.09
+ORD-10068,2022-06-01,South,Furniture,Bookcase,Home Office,9,188.67,0.2,1358.42
+ORD-10069,2022-09-04,South,Furniture,Bookcase,Consumer,7,134.37,0.0,940.59
+ORD-10070,2023-07-10,South,Technology,Printer,Consumer,9,394.48,0.1,3195.29
+ORD-10071,2023-12-12,North,Office Supplies,Labels,Home Office,9,22.78,0.0,205.02
+ORD-10072,2023-11-03,East,Office Supplies,Labels,Corporate,10,23.27,0.2,186.16
+ORD-10073,2022-07-23,West,Furniture,Bookcase,Corporate,2,247.64,0.0,495.28
+ORD-10074,2023-08-09,West,Office Supplies,Paper,Corporate,6,28.76,0.2,138.05
+ORD-10075,2022-01-02,East,Technology,Monitor,Corporate,8,411.05,0.0,3288.4
+ORD-10076,2023-02-07,East,Office Supplies,Binder,Consumer,6,18.64,0.1,100.66
+ORD-10077,2023-07-12,North,Furniture,Table,Home Office,6,177.54,0.1,958.72
+ORD-10078,2022-03-03,North,Technology,Printer,Home Office,11,349.02,0.2,3071.38
+ORD-10079,2022-03-28,South,Furniture,Bookcase,Corporate,7,195.39,0.0,1367.73
+ORD-10080,2022-05-23,East,Technology,Laptop,Consumer,4,268.32,0.0,1073.28
+ORD-10081,2022-03-21,South,Office Supplies,Labels,Home Office,7,31.62,0.0,221.34
+ORD-10082,2023-05-11,South,Technology,Phone,Corporate,8,314.97,0.0,2519.76
+ORD-10083,2023-11-05,East,Technology,Monitor,Home Office,5,328.52,0.1,1478.34
+ORD-10084,2023-08-27,West,Technology,Phone,Consumer,9,413.22,0.1,3347.08
+ORD-10085,2023-10-17,South,Technology,Laptop,Home Office,1,311.31,0.15,264.61
+ORD-10086,2023-05-01,North,Technology,Laptop,Home Office,9,354.73,0.0,3192.57
+ORD-10087,2023-04-10,West,Furniture,Bookcase,Consumer,4,180.27,0.2,576.86
+ORD-10088,2022-09-29,West,Technology,Laptop,Home Office,3,436.33,0.15,1112.64
+ORD-10089,2022-08-20,West,Technology,Monitor,Consumer,10,334.62,0.0,3346.2
+ORD-10090,2022-08-17,South,Furniture,Chair,Consumer,6,150.95,0.0,905.7
+ORD-10091,2022-04-27,West,Office Supplies,Binder,Home Office,6,30.94,0.0,185.64
+ORD-10092,2022-05-27,North,Technology,Monitor,Consumer,6,382.26,0.1,2064.2
+ORD-10093,2023-03-11,East,Furniture,Desk,Home Office,9,182.09,0.0,1638.81
+ORD-10094,2023-04-15,East,Office Supplies,Pen Set,Corporate,5,28.65,0.0,143.25
+ORD-10095,2023-10-09,East,Technology,Laptop,Corporate,7,269.51,0.2,1509.26
+ORD-10096,2022-07-07,West,Furniture,Table,Consumer,5,179.29,0.1,806.8
+ORD-10097,2022-04-27,South,Office Supplies,Paper,Consumer,2,23.12,0.1,41.62
+ORD-10098,2023-04-25,South,Technology,Printer,Consumer,7,395.96,0.1,2494.55
+ORD-10099,2023-10-21,East,Technology,Monitor,Consumer,5,333.59,0.0,1667.95
+ORD-10100,2022-04-10,North,Technology,Phone,Corporate,10,262.91,0.0,2629.1
+ORD-10101,2022-01-10,East,Office Supplies,Paper,Consumer,3,20.39,0.0,61.17
+ORD-10102,2022-04-29,West,Furniture,Chair,Consumer,1,225.85,0.0,225.85
+ORD-10103,2023-08-24,East,Technology,Laptop,Corporate,5,406.97,0.0,2034.85
+ORD-10104,2023-05-03,South,Office Supplies,Paper,Corporate,4,29.11,0.0,116.44
+ORD-10105,2022-03-17,South,Office Supplies,Paper,Consumer,11,33.01,0.0,363.11
+ORD-10106,2023-08-30,East,Technology,Laptop,Home Office,8,445.72,0.0,3565.76
+ORD-10107,2022-10-10,South,Office Supplies,Labels,Home Office,7,34.17,0.0,239.19
+ORD-10108,2022-01-14,North,Technology,Laptop,Consumer,5,379.44,0.0,1897.2
+ORD-10109,2022-03-08,South,Office Supplies,Pen Set,Home Office,4,18.86,0.0,75.44
+ORD-10110,2022-11-23,West,Furniture,Desk,Home Office,7,161.08,0.15,958.43
+ORD-10111,2022-05-16,West,Office Supplies,Labels,Home Office,5,17.56,0.1,79.02
+ORD-10112,2023-08-07,East,Furniture,Chair,Consumer,1,152.76,0.0,152.76
+ORD-10113,2023-06-08,South,Office Supplies,Pen Set,Consumer,8,19.77,0.15,134.44
+ORD-10114,2022-01-26,North,Furniture,Table,Corporate,7,232.67,0.0,1628.69
+ORD-10115,2023-08-23,North,Furniture,Bookcase,Home Office,7,165.41,0.0,1157.87
+ORD-10116,2022-08-02,South,Technology,Monitor,Home Office,8,366.39,0.1,2638.01
+ORD-10117,2022-05-03,West,Technology,Printer,Home Office,8,310.8,0.0,2486.4
+ORD-10118,2022-05-30,North,Office Supplies,Pen Set,Consumer,10,22.38,0.0,223.8
+ORD-10119,2022-10-06,West,Office Supplies,Pen Set,Corporate,4,22.85,0.0,91.4
+ORD-10120,2022-05-07,West,Furniture,Bookcase,Consumer,8,184.69,0.0,1477.52
+ORD-10121,2023-03-30,South,Office Supplies,Paper,Home Office,4,27.51,0.0,110.04
+ORD-10122,2023-10-08,East,Furniture,Desk,Home Office,10,227.38,0.0,2273.8
+ORD-10123,2023-11-26,West,Technology,Laptop,Home Office,10,225.28,0.0,2252.8
+ORD-10124,2022-02-23,South,Technology,Monitor,Home Office,5,406.03,0.0,2030.15
+ORD-10125,2023-12-14,South,Technology,Laptop,Home Office,4,233.35,0.0,933.4
+ORD-10126,2023-02-19,East,Furniture,Chair,Consumer,3,199.01,0.0,597.03
+ORD-10127,2023-05-16,North,Technology,Printer,Corporate,9,356.0,0.15,2723.4
+ORD-10128,2023-03-02,East,Technology,Laptop,Corporate,9,261.17,0.0,2350.53
+ORD-10129,2023-08-26,North,Office Supplies,Binder,Consumer,6,30.34,0.0,182.04
+ORD-10130,2023-01-31,West,Furniture,Table,Home Office,5,196.46,0.0,982.3
+ORD-10131,2023-03-19,North,Office Supplies,Pen Set,Home Office,2,21.87,0.0,43.74
+ORD-10132,2022-02-02,South,Office Supplies,Paper,Home Office,6,20.87,0.0,125.22
+ORD-10133,2023-07-29,South,Office Supplies,Binder,Consumer,2,26.02,0.0,52.04
+ORD-10134,2022-04-14,West,Office Supplies,Binder,Home Office,10,34.69,0.1,312.21
+ORD-10135,2022-07-10,West,Furniture,Desk,Home Office,4,224.46,0.0,897.84
+ORD-10136,2022-11-29,East,Office Supplies,Pen Set,Corporate,7,26.39,0.0,184.73
+ORD-10137,2023-12-10,East,Furniture,Bookcase,Consumer,1,153.28,0.0,153.28
+ORD-10138,2023-03-05,West,Technology,Phone,Corporate,9,231.6,0.0,2084.4
+ORD-10139,2022-06-06,South,Office Supplies,Binder,Consumer,5,30.71,0.0,153.55
+ORD-10140,2022-08-15,South,Office Supplies,Pen Set,Corporate,1,21.93,0.0,21.93
+ORD-10141,2023-08-04,West,Technology,Monitor,Corporate,11,256.68,0.1,2541.13
+ORD-10142,2023-12-12,East,Technology,Printer,Corporate,3,252.86,0.2,606.86
+ORD-10143,2023-08-22,North,Furniture,Bookcase,Consumer,4,244.18,0.0,976.72
+ORD-10144,2022-02-18,North,Office Supplies,Binder,Home Office,6,25.53,0.0,153.18
+ORD-10145,2023-03-28,South,Office Supplies,Pen Set,Home Office,11,20.24,0.15,189.24
+ORD-10146,2023-10-13,South,Technology,Monitor,Home Office,1,283.59,0.0,283.59
+ORD-10147,2023-05-07,West,Office Supplies,Labels,Home Office,5,33.95,0.0,169.75
+ORD-10148,2022-12-10,South,Technology,Phone,Consumer,5,310.49,0.0,1552.45
+ORD-10149,2023-08-31,East,Furniture,Desk,Consumer,9,197.13,0.0,1774.17
+ORD-10150,2022-06-20,East,Office Supplies,Pen Set,Corporate,6,22.82,0.1,123.23
+ORD-10151,2022-08-16,West,Technology,Laptop,Consumer,7,265.79,0.0,1860.53
+ORD-10152,2022-08-05,South,Office Supplies,Paper,Consumer,6,18.1,0.0,108.6
+ORD-10153,2023-04-30,South,Technology,Monitor,Consumer,4,360.54,0.0,1442.16
+ORD-10154,2022-02-28,North,Furniture,Chair,Consumer,7,151.5,0.0,1060.5
+ORD-10155,2023-03-14,East,Furniture,Table,Home Office,4,202.27,0.2,647.26
+ORD-10156,2023-01-16,East,Office Supplies,Labels,Home Office,10,29.79,0.0,297.9
+ORD-10157,2022-10-08,South,Technology,Monitor,Consumer,1,347.21,0.0,347.21
+ORD-10158,2022-02-21,West,Furniture,Table,Corporate,6,242.79,0.0,1456.74
+ORD-10159,2023-10-12,North,Furniture,Chair,Home Office,1,156.87,0.2,125.5
+ORD-10160,2022-03-10,North,Office Supplies,Paper,Home Office,10,17.99,0.0,179.9
+ORD-10161,2023-05-11,East,Furniture,Desk,Consumer,7,138.66,0.0,970.62
+ORD-10162,2022-09-01,West,Office Supplies,Binder,Corporate,2,31.43,0.0,62.86
+ORD-10163,2022-01-19,North,Technology,Phone,Corporate,2,282.31,0.0,564.62
+ORD-10164,2023-04-13,South,Office Supplies,Pen Set,Home Office,7,17.76,0.15,105.67
+ORD-10165,2022-10-01,East,Furniture,Bookcase,Consumer,8,228.33,0.1,1643.98
+ORD-10166,2022-01-26,East,Technology,Monitor,Home Office,3,443.0,0.0,1329.0
+ORD-10167,2023-10-25,South,Office Supplies,Labels,Corporate,4,26.34,0.0,105.36
+ORD-10168,2023-06-05,East,Technology,Printer,Consumer,8,418.62,0.15,2846.62
+ORD-10169,2023-09-26,South,Technology,Monitor,Consumer,11,336.9,0.0,3705.9
+ORD-10170,2023-02-27,South,Furniture,Desk,Home Office,9,190.42,0.0,1713.78
+ORD-10171,2022-09-21,South,Technology,Phone,Home Office,11,251.99,0.0,2771.89
+ORD-10172,2023-04-01,South,Technology,Monitor,Home Office,11,353.04,0.0,3883.44
+ORD-10173,2022-11-12,West,Office Supplies,Pen Set,Consumer,8,20.9,0.0,167.2
+ORD-10174,2022-02-11,North,Office Supplies,Binder,Consumer,5,29.05,0.0,145.25
+ORD-10175,2023-07-16,North,Furniture,Desk,Consumer,6,174.07,0.0,1044.42
+ORD-10176,2022-05-07,North,Furniture,Table,Home Office,6,246.97,0.0,1481.82
+ORD-10177,2023-06-25,North,Technology,Printer,Home Office,4,403.9,0.0,1615.6
+ORD-10178,2023-03-16,West,Office Supplies,Pen Set,Corporate,3,18.45,0.15,47.05
+ORD-10179,2023-11-19,West,Technology,Printer,Corporate,4,239.55,0.0,958.2
+ORD-10180,2023-05-04,East,Technology,Phone,Corporate,1,443.69,0.15,377.14
+ORD-10181,2022-05-03,South,Office Supplies,Labels,Consumer,11,21.05,0.15,196.82
+ORD-10182,2023-01-16,North,Office Supplies,Paper,Corporate,7,26.59,0.0,186.13
+ORD-10183,2022-03-24,West,Furniture,Chair,Consumer,9,242.22,0.0,2179.98
+ORD-10184,2022-04-09,West,Furniture,Desk,Home Office,11,199.5,0.0,2194.5
+ORD-10185,2023-12-04,North,Technology,Phone,Consumer,8,288.85,0.0,2310.8
+ORD-10186,2022-06-29,South,Technology,Monitor,Home Office,5,293.3,0.15,1246.52
+ORD-10187,2022-08-15,South,Technology,Monitor,Corporate,10,374.7,0.0,3747.0
+ORD-10188,2022-01-22,South,Furniture,Chair,Consumer,8,246.82,0.0,1974.56
+ORD-10189,2023-10-30,West,Furniture,Desk,Consumer,1,185.47,0.0,185.47
+ORD-10190,2023-08-15,East,Technology,Monitor,Home Office,6,349.91,0.0,2099.46
+ORD-10191,2022-08-23,East,Technology,Printer,Corporate,5,417.51,0.0,2087.55
+ORD-10192,2023-02-16,East,Technology,Monitor,Home Office,3,387.8,0.0,1163.4
+ORD-10193,2023-07-18,North,Office Supplies,Labels,Home Office,5,24.76,0.1,111.42
+ORD-10194,2023-06-09,North,Furniture,Table,Corporate,11,236.02,0.0,2596.22
+ORD-10195,2023-12-02,South,Technology,Monitor,Consumer,11,294.84,0.0,3243.24
+ORD-10196,2023-11-24,South,Technology,Monitor,Home Office,2,446.78,0.0,893.56
+ORD-10197,2022-08-11,South,Furniture,Chair,Corporate,1,195.16,0.0,195.16
+ORD-10198,2023-03-16,West,Technology,Monitor,Home Office,2,433.78,0.0,867.56
+ORD-10199,2023-08-18,West,Technology,Printer,Consumer,5,439.2,0.0,2196.0
+ORD-10200,2022-08-03,North,Office Supplies,Pen Set,Consumer,3,22.56,0.15,57.53
+ORD-10201,2022-09-19,West,Furniture,Table,Consumer,9,182.6,0.0,1643.4
+ORD-10202,2023-02-06,West,Technology,Phone,Home Office,9,415.93,0.0,3743.37
+ORD-10203,2022-01-25,East,Technology,Monitor,Home Office,6,396.38,0.0,2378.28
+ORD-10204,2023-10-11,North,Office Supplies,Binder,Corporate,9,32.71,0.0,294.39
+ORD-10205,2022-08-03,South,Office Supplies,Labels,Consumer,3,23.18,0.0,69.54
+ORD-10206,2022-01-10,South,Technology,Phone,Home Office,6,305.09,0.15,1555.96
+ORD-10207,2023-10-23,West,Technology,Phone,Corporate,9,370.73,0.0,3336.57
+ORD-10208,2023-10-05,West,Furniture,Chair,Corporate,10,132.71,0.0,1327.1
+ORD-10209,2022-10-12,North,Technology,Monitor,Corporate,7,437.1,0.0,3059.7
+ORD-10210,2023-10-10,North,Technology,Laptop,Home Office,2,329.48,0.15,560.12
+ORD-10211,2023-01-21,East,Technology,Monitor,Home Office,4,252.54,0.15,858.64
+ORD-10212,2023-03-21,South,Furniture,Desk,Consumer,7,136.97,0.1,862.91
+ORD-10213,2023-07-31,West,Furniture,Bookcase,Home Office,10,164.17,0.0,1641.7
+ORD-10214,2022-04-02,West,Office Supplies,Pen Set,Corporate,6,21.82,0.0,130.92
+ORD-10215,2023-02-08,North,Technology,Laptop,Home Office,9,260.07,0.0,2340.63
+ORD-10216,2022-03-05,South,Technology,Printer,Home Office,11,428.82,0.0,4717.02
+ORD-10217,2023-01-09,South,Furniture,Bookcase,Corporate,4,242.81,0.0,971.24
+ORD-10218,2023-06-04,East,Furniture,Bookcase,Consumer,1,239.42,0.15,203.51
+ORD-10219,2023-04-27,East,Office Supplies,Binder,Consumer,1,24.28,0.2,19.42
+ORD-10220,2023-05-28,East,Office Supplies,Pen Set,Corporate,8,34.44,0.1,247.97
+ORD-10221,2023-11-29,South,Office Supplies,Labels,Home Office,4,19.23,0.1,69.23
+ORD-10222,2023-12-28,West,Furniture,Bookcase,Home Office,3,191.74,0.2,460.18
+ORD-10223,2023-08-01,West,Furniture,Bookcase,Home Office,11,171.85,0.0,1890.35
+ORD-10224,2022-05-16,South,Furniture,Chair,Consumer,3,238.15,0.0,714.45
+ORD-10225,2022-02-03,North,Office Supplies,Paper,Home Office,1,19.11,0.0,19.11
+ORD-10226,2023-06-22,North,Furniture,Chair,Consumer,10,203.7,0.0,2037.0
+ORD-10227,2023-08-27,East,Furniture,Bookcase,Home Office,2,193.19,0.0,386.38
+ORD-10228,2022-10-27,East,Office Supplies,Labels,Corporate,5,30.08,0.2,120.32
+ORD-10229,2023-09-19,South,Office Supplies,Pen Set,Corporate,1,29.88,0.2,23.9
+ORD-10230,2022-05-09,South,Furniture,Desk,Consumer,5,191.85,0.0,959.25
+ORD-10231,2023-05-02,West,Office Supplies,Binder,Home Office,5,30.01,0.0,150.05
+ORD-10232,2022-12-27,West,Technology,Printer,Consumer,10,278.23,0.0,2782.3
+ORD-10233,2023-07-12,North,Technology,Laptop,Consumer,10,413.93,0.0,4139.3
+ORD-10234,2022-09-20,South,Technology,Phone,Home Office,3,323.36,0.0,970.08
+ORD-10235,2022-01-06,South,Office Supplies,Pen Set,Consumer,11,29.15,0.1,288.58
+ORD-10236,2022-08-27,South,Technology,Laptop,Home Office,9,283.16,0.0,2548.44
+ORD-10237,2023-05-28,North,Office Supplies,Pen Set,Consumer,1,31.34,0.15,26.64
+ORD-10238,2023-04-26,West,Office Supplies,Paper,Consumer,7,29.09,0.0,203.63
+ORD-10239,2022-12-16,East,Technology,Phone,Corporate,3,386.6,0.0,1159.8
+ORD-10240,2022-03-06,West,Office Supplies,Binder,Consumer,2,28.4,0.2,45.44
+ORD-10241,2022-02-13,East,Office Supplies,Pen Set,Consumer,9,22.07,0.0,198.63
+ORD-10242,2022-12-23,West,Technology,Laptop,Corporate,4,379.56,0.0,1518.24
+ORD-10243,2022-03-23,South,Office Supplies,Pen Set,Corporate,8,23.54,0.0,188.32
+ORD-10244,2022-01-13,North,Technology,Laptop,Corporate,1,273.27,0.0,273.27
+ORD-10245,2023-08-03,South,Furniture,Desk,Corporate,10,170.68,0.0,1706.8
+ORD-10246,2023-10-13,East,Technology,Monitor,Consumer,4,305.06,0.0,1220.24
+ORD-10247,2023-12-07,East,Furniture,Chair,Consumer,4,215.88,0.2,690.82
+ORD-10248,2022-04-13,South,Technology,Printer,Corporate,4,320.93,0.0,1283.72
+ORD-10249,2023-12-18,West,Office Supplies,Pen Set,Home Office,2,22.62,0.15,38.45
+ORD-10250,2023-09-29,North,Office Supplies,Paper,Consumer,8,30.46,0.0,243.68
+ORD-10251,2023-07-08,North,Furniture,Table,Corporate,7,242.73,0.0,1699.11
+ORD-10252,2023-05-24,East,Technology,Printer,Consumer,5,402.69,0.0,2013.45
+ORD-10253,2022-06-14,West,Office Supplies,Binder,Home Office,6,20.8,0.0,124.8
+ORD-10254,2022-03-07,East,Office Supplies,Labels,Corporate,2,21.6,0.15,36.72
+ORD-10255,2023-08-13,East,Office Supplies,Binder,Home Office,10,28.83,0.0,288.3
+ORD-10256,2023-06-30,North,Office Supplies,Labels,Consumer,6,32.03,0.0,192.18
+ORD-10257,2023-05-01,West,Office Supplies,Pen Set,Corporate,4,23.22,0.0,92.88
+ORD-10258,2022-11-04,West,Technology,Printer,Home Office,6,376.66,0.0,2259.96
+ORD-10259,2022-04-12,West,Office Supplies,Labels,Consumer,6,19.12,0.0,114.72
+ORD-10260,2023-07-08,East,Office Supplies,Labels,Home Office,8,26.41,0.1,190.15
+ORD-10261,2022-10-23,North,Technology,Printer,Corporate,6,267.62,0.0,1605.72
+ORD-10262,2022-09-02,South,Technology,Laptop,Corporate,5,434.51,0.0,2172.55
+ORD-10263,2023-03-04,South,Office Supplies,Paper,Home Office,8,24.99,0.0,199.92
+ORD-10264,2022-09-12,East,Furniture,Table,Corporate,11,242.39,0.0,2666.29
+ORD-10265,2022-11-28,East,Office Supplies,Binder,Home Office,2,27.19,0.0,54.38
+ORD-10266,2022-09-04,South,Furniture,Table,Home Office,8,138.83,0.0,1110.64
+ORD-10267,2022-02-08,West,Technology,Phone,Consumer,8,281.5,0.1,2026.8
+ORD-10268,2022-11-30,North,Technology,Printer,Consumer,3,445.77,0.1,1203.58
+ORD-10269,2022-11-02,West,Furniture,Bookcase,Corporate,3,138.9,0.0,416.7
+ORD-10270,2023-06-28,South,Furniture,Desk,Corporate,8,214.05,0.0,1712.4
+ORD-10271,2022-03-20,North,Technology,Printer,Corporate,4,318.4,0.1,1146.24
+ORD-10272,2022-12-16,West,Furniture,Table,Corporate,6,207.39,0.1,1119.91
+ORD-10273,2022-08-30,East,Furniture,Bookcase,Consumer,4,161.49,0.1,581.36
+ORD-10274,2022-01-25,North,Office Supplies,Paper,Home Office,2,31.55,0.2,50.48
+ORD-10275,2023-09-24,West,Technology,Laptop,Corporate,4,365.89,0.15,1244.03
+ORD-10276,2022-01-03,East,Technology,Printer,Home Office,1,414.67,0.0,414.67
+ORD-10277,2023-02-14,South,Office Supplies,Paper,Consumer,5,31.42,0.0,157.1
+ORD-10278,2023-04-11,West,Furniture,Table,Consumer,4,182.91,0.0,731.64
+ORD-10279,2022-05-12,North,Office Supplies,Pen Set,Corporate,8,26.86,0.0,214.88
+ORD-10280,2022-05-20,East,Furniture,Bookcase,Home Office,8,178.27,0.0,1426.16
+ORD-10281,2022-09-25,North,Technology,Phone,Home Office,1,247.16,0.15,210.09
+ORD-10282,2022-07-15,West,Technology,Laptop,Home Office,7,273.63,0.15,1628.1
+ORD-10283,2023-09-15,North,Office Supplies,Pen Set,Consumer,1,33.03,0.0,33.03
+ORD-10284,2023-08-06,South,Office Supplies,Paper,Home Office,7,26.06,0.15,155.06
+ORD-10285,2023-03-25,South,Technology,Printer,Consumer,6,299.13,0.1,1615.3
+ORD-10286,2022-05-01,East,Office Supplies,Binder,Corporate,7,25.61,0.2,143.42
+ORD-10287,2022-06-06,East,Office Supplies,Binder,Home Office,9,29.35,0.0,264.15
+ORD-10288,2023-09-01,East,Technology,Phone,Corporate,5,241.76,0.0,1208.8
+ORD-10289,2022-01-09,North,Technology,Laptop,Home Office,1,275.52,0.15,234.19
+ORD-10290,2023-02-13,North,Office Supplies,Paper,Corporate,6,32.81,0.1,177.17
+ORD-10291,2023-03-19,South,Technology,Phone,Consumer,3,308.96,0.0,926.88
+ORD-10292,2022-11-24,West,Furniture,Table,Home Office,2,174.42,0.0,348.84
+ORD-10293,2023-06-24,East,Technology,Laptop,Corporate,6,268.26,0.1,1448.6
+ORD-10294,2023-06-05,West,Technology,Laptop,Consumer,5,414.19,0.15,1760.31
+ORD-10295,2023-10-04,South,Office Supplies,Labels,Home Office,2,29.74,0.0,59.48
+ORD-10296,2022-10-17,East,Furniture,Bookcase,Corporate,9,208.78,0.1,1691.12
+ORD-10297,2022-03-05,West,Office Supplies,Paper,Consumer,8,32.17,0.0,257.36
+ORD-10298,2022-12-04,West,Furniture,Table,Corporate,4,193.9,0.0,775.6
+ORD-10299,2023-12-08,South,Office Supplies,Paper,Corporate,8,21.81,0.1,157.03
+ORD-10300,2022-02-19,North,Office Supplies,Binder,Corporate,2,27.6,0.0,55.2
+ORD-10301,2022-07-18,North,Technology,Printer,Corporate,6,279.54,0.0,1677.24
+ORD-10302,2022-11-16,South,Technology,Laptop,Home Office,7,325.3,0.0,2277.1
+ORD-10303,2023-04-02,South,Furniture,Chair,Home Office,4,193.72,0.0,774.88
+ORD-10304,2023-11-15,South,Furniture,Table,Consumer,10,178.67,0.0,1786.7
+ORD-10305,2022-07-02,South,Furniture,Chair,Corporate,9,221.72,0.0,1995.48
+ORD-10306,2023-01-11,East,Furniture,Bookcase,Consumer,11,174.69,0.0,1921.59
+ORD-10307,2023-10-12,East,Office Supplies,Pen Set,Consumer,3,22.57,0.2,54.17
+ORD-10308,2022-11-01,East,Furniture,Bookcase,Consumer,1,145.33,0.15,123.53
+ORD-10309,2023-08-17,South,Furniture,Bookcase,Home Office,2,237.1,0.0,474.2
+ORD-10310,2022-07-06,South,Office Supplies,Paper,Corporate,3,27.76,0.0,83.28
+ORD-10311,2023-06-09,East,Technology,Phone,Home Office,6,335.34,0.0,2012.04
+ORD-10312,2022-04-28,West,Technology,Phone,Home Office,2,283.34,0.0,566.68
+ORD-10313,2023-01-25,East,Office Supplies,Binder,Consumer,3,26.71,0.0,80.13
+ORD-10314,2023-01-02,West,Furniture,Bookcase,Home Office,9,248.5,0.15,1901.02
+ORD-10315,2023-05-02,North,Technology,Monitor,Corporate,5,277.52,0.2,1110.08
+ORD-10316,2023-04-29,East,Furniture,Bookcase,Home Office,11,161.11,0.2,1417.77
+ORD-10317,2022-08-18,South,Technology,Monitor,Corporate,2,423.56,0.0,847.12
+ORD-10318,2023-11-21,South,Technology,Monitor,Corporate,3,409.38,0.0,1228.14
+ORD-10319,2022-08-02,South,Furniture,Table,Corporate,1,247.03,0.0,247.03
+ORD-10320,2022-01-10,East,Technology,Phone,Corporate,11,241.04,0.15,2253.72
+ORD-10321,2022-08-27,East,Office Supplies,Binder,Corporate,10,31.45,0.0,314.5
+ORD-10322,2023-03-29,South,Office Supplies,Labels,Consumer,2,33.26,0.2,53.22
+ORD-10323,2022-05-27,South,Technology,Laptop,Consumer,10,372.91,0.0,3729.1
+ORD-10324,2023-11-03,West,Technology,Monitor,Consumer,2,267.96,0.0,535.92
+ORD-10325,2022-05-17,West,Technology,Laptop,Home Office,3,326.6,0.2,783.84
+ORD-10326,2023-08-23,West,Furniture,Table,Consumer,7,242.97,0.15,1445.67
+ORD-10327,2022-11-15,South,Furniture,Chair,Corporate,7,213.41,0.0,1493.87
+ORD-10328,2022-08-02,East,Technology,Phone,Home Office,5,426.59,0.15,1813.01
+ORD-10329,2023-07-22,West,Technology,Phone,Home Office,6,286.9,0.0,1721.4
+ORD-10330,2023-02-27,West,Office Supplies,Paper,Consumer,9,22.71,0.15,173.73
+ORD-10331,2023-09-15,East,Furniture,Table,Home Office,9,231.52,0.2,1666.94
+ORD-10332,2022-07-23,South,Office Supplies,Paper,Corporate,10,21.25,0.0,212.5
+ORD-10333,2022-04-09,North,Technology,Monitor,Home Office,9,227.81,0.2,1640.23
+ORD-10334,2023-08-31,West,Furniture,Bookcase,Consumer,7,218.79,0.0,1531.53
+ORD-10335,2023-06-12,South,Technology,Printer,Home Office,4,404.39,0.1,1455.8
+ORD-10336,2022-10-08,South,Technology,Printer,Consumer,3,367.3,0.0,1101.9
+ORD-10337,2023-03-19,East,Technology,Monitor,Corporate,6,248.8,0.2,1194.24
+ORD-10338,2023-11-21,East,Office Supplies,Paper,Consumer,8,19.7,0.15,133.96
+ORD-10339,2022-01-07,North,Technology,Monitor,Home Office,10,344.52,0.0,3445.2
+ORD-10340,2023-10-27,North,Office Supplies,Labels,Corporate,2,31.24,0.15,53.11
+ORD-10341,2023-08-18,West,Technology,Laptop,Corporate,4,225.28,0.0,901.12
+ORD-10342,2023-07-13,East,Technology,Laptop,Corporate,7,351.28,0.0,2458.96
+ORD-10343,2023-02-26,East,Technology,Laptop,Home Office,6,357.62,0.0,2145.72
+ORD-10344,2022-07-15,South,Technology,Laptop,Home Office,3,377.94,0.0,1133.82
+ORD-10345,2023-05-12,East,Office Supplies,Pen Set,Corporate,3,30.81,0.15,78.57
+ORD-10346,2022-03-06,South,Technology,Laptop,Corporate,10,390.41,0.2,3123.28
+ORD-10347,2022-05-05,East,Technology,Monitor,Corporate,5,352.04,0.0,1760.2
+ORD-10348,2023-06-23,South,Office Supplies,Labels,Consumer,11,18.66,0.1,184.73
+ORD-10349,2023-06-26,West,Technology,Printer,Home Office,4,328.68,0.15,1117.51
+ORD-10350,2022-12-23,West,Furniture,Bookcase,Consumer,10,160.02,0.15,1360.17
+ORD-10351,2023-05-10,East,Furniture,Table,Consumer,7,208.39,0.15,1239.92
+ORD-10352,2023-06-29,West,Office Supplies,Pen Set,Consumer,8,24.26,0.1,174.67
+ORD-10353,2022-08-14,East,Office Supplies,Pen Set,Corporate,11,19.73,0.0,217.03
+ORD-10354,2023-03-04,West,Office Supplies,Labels,Home Office,5,20.05,0.1,90.22
+ORD-10355,2022-08-26,North,Office Supplies,Binder,Consumer,3,31.51,0.2,75.62
+ORD-10356,2022-09-26,North,Office Supplies,Pen Set,Corporate,7,20.59,0.0,144.13
+ORD-10357,2023-07-25,North,Furniture,Desk,Consumer,5,134.06,0.0,670.3
+ORD-10358,2023-12-13,North,Office Supplies,Labels,Consumer,5,28.59,0.15,121.51
+ORD-10359,2022-05-01,West,Technology,Printer,Home Office,4,341.98,0.2,1094.34
+ORD-10360,2023-07-29,North,Technology,Printer,Corporate,4,410.15,0.0,1640.6
+ORD-10361,2022-04-26,South,Furniture,Desk,Consumer,3,245.14,0.0,735.42
+ORD-10362,2023-05-29,North,Furniture,Bookcase,Home Office,4,174.29,0.0,697.16
+ORD-10363,2023-07-03,West,Office Supplies,Labels,Consumer,1,21.55,0.0,21.55
+ORD-10364,2023-02-16,North,Office Supplies,Binder,Corporate,6,29.63,0.0,177.78
+ORD-10365,2023-03-13,East,Technology,Monitor,Consumer,3,399.33,0.0,1197.99
+ORD-10366,2023-10-20,East,Office Supplies,Pen Set,Corporate,6,33.71,0.0,202.26
+ORD-10367,2022-04-29,East,Technology,Laptop,Home Office,7,375.1,0.0,2625.7
+ORD-10368,2022-02-25,West,Technology,Printer,Home Office,8,331.48,0.0,2651.84
+ORD-10369,2022-11-02,West,Office Supplies,Paper,Consumer,1,34.95,0.0,34.95
+ORD-10370,2022-06-02,East,Technology,Printer,Corporate,11,400.91,0.0,4410.01
+ORD-10371,2023-10-13,West,Office Supplies,Binder,Home Office,7,23.8,0.0,166.6
+ORD-10372,2023-09-14,West,Furniture,Table,Consumer,7,225.03,0.0,1575.21
+ORD-10373,2023-08-24,East,Furniture,Chair,Consumer,9,210.82,0.0,1897.38
+ORD-10374,2022-11-08,East,Office Supplies,Binder,Consumer,7,28.8,0.0,201.6
+ORD-10375,2022-06-14,East,Furniture,Chair,Home Office,6,209.4,0.1,1130.76
+ORD-10376,2023-05-25,East,Technology,Laptop,Consumer,11,284.44,0.0,3128.84
+ORD-10377,2023-08-10,North,Furniture,Chair,Consumer,8,219.49,0.0,1755.92
+ORD-10378,2023-01-16,East,Technology,Phone,Corporate,3,433.13,0.0,1299.39
+ORD-10379,2022-09-03,East,Office Supplies,Pen Set,Home Office,4,30.2,0.15,102.68
+ORD-10380,2023-03-31,West,Office Supplies,Binder,Home Office,10,19.37,0.0,193.7
+ORD-10381,2023-05-15,East,Furniture,Table,Home Office,9,131.8,0.1,1067.58
+ORD-10382,2023-01-19,East,Office Supplies,Paper,Corporate,4,23.37,0.0,93.48
+ORD-10383,2022-02-06,East,Office Supplies,Pen Set,Corporate,6,18.65,0.0,111.9
+ORD-10384,2023-09-02,North,Office Supplies,Binder,Consumer,3,27.58,0.0,82.74
+ORD-10385,2022-01-12,East,Office Supplies,Pen Set,Consumer,6,25.72,0.0,154.32
+ORD-10386,2022-03-06,East,Furniture,Table,Consumer,4,234.01,0.1,842.44
+ORD-10387,2023-09-08,South,Office Supplies,Paper,Corporate,2,25.64,0.15,43.59
+ORD-10388,2022-10-01,North,Technology,Laptop,Home Office,2,364.36,0.0,728.72
+ORD-10389,2023-12-04,South,Technology,Phone,Consumer,8,295.21,0.0,2361.68
+ORD-10390,2022-10-01,South,Furniture,Chair,Corporate,8,242.87,0.1,1748.66
+ORD-10391,2022-01-15,West,Office Supplies,Binder,Corporate,10,24.25,0.2,194.0
+ORD-10392,2023-08-30,North,Office Supplies,Binder,Corporate,9,30.33,0.0,272.97
+ORD-10393,2022-03-24,West,Office Supplies,Pen Set,Home Office,2,21.75,0.0,43.5
+ORD-10394,2023-12-03,East,Office Supplies,Labels,Corporate,4,34.91,0.1,125.68
+ORD-10395,2023-11-30,East,Technology,Laptop,Corporate,2,243.69,0.0,487.38
+ORD-10396,2022-09-24,South,Office Supplies,Pen Set,Consumer,1,22.7,0.2,18.16
+ORD-10397,2023-03-05,West,Office Supplies,Labels,Consumer,10,29.81,0.1,268.29
+ORD-10398,2023-01-05,North,Office Supplies,Pen Set,Consumer,11,32.64,0.2,287.23
+ORD-10399,2023-12-13,North,Furniture,Desk,Home Office,4,149.17,0.0,596.68
+ORD-10400,2022-06-26,West,Technology,Monitor,Home Office,2,296.74,0.1,534.13
+ORD-10401,2023-04-22,South,Furniture,Chair,Corporate,7,132.25,0.0,925.75
+ORD-10402,2023-09-13,South,Office Supplies,Paper,Corporate,11,30.87,0.0,339.57
+ORD-10403,2022-01-07,South,Furniture,Chair,Corporate,11,236.53,0.0,2601.83
+ORD-10404,2023-12-21,South,Furniture,Desk,Home Office,8,154.39,0.0,1235.12
+ORD-10405,2023-10-20,North,Office Supplies,Pen Set,Corporate,4,21.84,0.0,87.36
+ORD-10406,2023-11-27,West,Furniture,Bookcase,Home Office,4,217.66,0.1,783.58
+ORD-10407,2022-02-19,East,Technology,Phone,Corporate,3,373.64,0.1,1008.83
+ORD-10408,2023-12-10,West,Office Supplies,Pen Set,Corporate,7,27.52,0.0,192.64
+ORD-10409,2022-07-03,West,Furniture,Table,Home Office,8,238.76,0.0,1910.08
+ORD-10410,2023-01-23,East,Office Supplies,Binder,Consumer,6,20.82,0.1,112.43
+ORD-10411,2023-06-20,North,Furniture,Chair,Corporate,3,233.13,0.0,699.39
+ORD-10412,2023-05-17,South,Technology,Monitor,Home Office,11,446.03,0.0,4906.33
+ORD-10413,2023-09-24,West,Office Supplies,Pen Set,Home Office,9,30.0,0.0,270.0
+ORD-10414,2023-03-23,South,Furniture,Bookcase,Home Office,11,127.17,0.0,1398.87
+ORD-10415,2022-04-03,South,Furniture,Desk,Home Office,4,227.74,0.0,910.96
+ORD-10416,2023-07-24,East,Technology,Phone,Corporate,6,276.57,0.2,1327.54
+ORD-10417,2022-04-19,West,Office Supplies,Pen Set,Corporate,10,24.15,0.2,193.2
+ORD-10418,2022-02-15,South,Furniture,Desk,Consumer,10,162.72,0.0,1627.2
+ORD-10419,2022-07-09,West,Technology,Monitor,Consumer,3,247.3,0.1,667.71
+ORD-10420,2022-08-28,West,Furniture,Chair,Home Office,9,243.83,0.0,2194.47
+ORD-10421,2022-06-21,North,Office Supplies,Paper,Home Office,10,22.11,0.0,221.1
+ORD-10422,2022-01-15,East,Technology,Monitor,Home Office,8,364.36,0.0,2914.88
+ORD-10423,2022-02-12,North,Furniture,Table,Home Office,6,147.96,0.2,710.21
+ORD-10424,2023-08-27,South,Office Supplies,Pen Set,Home Office,5,22.76,0.0,113.8
+ORD-10425,2023-03-23,North,Furniture,Bookcase,Corporate,1,127.71,0.1,114.94
+ORD-10426,2023-07-24,North,Technology,Laptop,Consumer,4,361.95,0.15,1230.63
+ORD-10427,2022-11-23,South,Office Supplies,Labels,Home Office,10,18.26,0.0,182.6
+ORD-10428,2022-05-10,West,Technology,Monitor,Home Office,3,229.6,0.0,688.8
+ORD-10429,2023-06-12,South,Office Supplies,Labels,Consumer,3,34.43,0.1,92.96
+ORD-10430,2022-07-16,East,Technology,Monitor,Corporate,11,401.2,0.0,4413.2
+ORD-10431,2023-10-12,East,Office Supplies,Labels,Corporate,8,22.67,0.0,181.36
+ORD-10432,2023-09-21,West,Furniture,Chair,Corporate,9,212.08,0.1,1717.85
+ORD-10433,2023-12-10,South,Furniture,Table,Corporate,10,250.27,0.0,2502.7
+ORD-10434,2023-12-29,South,Office Supplies,Binder,Consumer,3,28.95,0.0,86.85
+ORD-10435,2023-02-20,East,Technology,Laptop,Corporate,4,228.27,0.1,821.77
+ORD-10436,2022-04-22,South,Office Supplies,Labels,Consumer,8,27.93,0.2,178.75
+ORD-10437,2023-11-02,North,Technology,Phone,Consumer,7,438.48,0.15,2608.96
+ORD-10438,2022-07-11,West,Office Supplies,Paper,Corporate,5,31.29,0.15,132.98
+ORD-10439,2023-07-23,East,Technology,Printer,Consumer,3,419.02,0.2,1005.65
+ORD-10440,2022-10-06,South,Technology,Monitor,Consumer,1,350.89,0.0,350.89
+ORD-10441,2023-05-12,East,Furniture,Desk,Consumer,3,190.96,0.0,572.88
+ORD-10442,2022-11-21,East,Office Supplies,Binder,Consumer,2,19.92,0.0,39.84
+ORD-10443,2022-08-21,South,Technology,Monitor,Corporate,10,399.84,0.0,3998.4
+ORD-10444,2023-05-11,North,Office Supplies,Pen Set,Corporate,2,25.76,0.0,51.52
+ORD-10445,2022-06-12,East,Office Supplies,Paper,Home Office,3,32.07,0.0,96.21
+ORD-10446,2022-10-23,South,Office Supplies,Pen Set,Corporate,11,32.92,0.15,307.8
+ORD-10447,2023-10-06,North,Technology,Printer,Corporate,2,394.1,0.15,669.97
+ORD-10448,2023-05-22,North,Furniture,Chair,Corporate,9,241.53,0.0,2173.77
+ORD-10449,2022-05-21,West,Furniture,Chair,Consumer,9,168.56,0.0,1517.04
+ORD-10450,2022-10-17,North,Furniture,Desk,Corporate,8,209.96,0.1,1511.71
+ORD-10451,2022-08-11,West,Furniture,Table,Consumer,10,243.89,0.0,2438.9
+ORD-10452,2023-03-19,North,Office Supplies,Pen Set,Consumer,10,23.72,0.0,237.2
+ORD-10453,2023-09-19,North,Furniture,Desk,Corporate,6,129.93,0.0,779.58
+ORD-10454,2023-08-16,North,Furniture,Desk,Consumer,8,209.66,0.0,1677.28
+ORD-10455,2023-07-28,South,Furniture,Bookcase,Corporate,10,245.2,0.0,2452.0
+ORD-10456,2023-09-20,South,Furniture,Chair,Consumer,8,228.93,0.0,1831.44
+ORD-10457,2022-01-27,West,Office Supplies,Pen Set,Consumer,5,29.24,0.0,146.2
+ORD-10458,2023-06-03,West,Office Supplies,Paper,Home Office,3,24.92,0.2,59.81
+ORD-10459,2023-03-30,West,Technology,Printer,Home Office,1,249.27,0.1,224.34
+ORD-10460,2023-10-29,North,Office Supplies,Binder,Corporate,6,33.1,0.15,168.81
+ORD-10461,2023-01-28,East,Technology,Phone,Corporate,8,278.64,0.0,2229.12
+ORD-10462,2022-07-09,North,Office Supplies,Labels,Consumer,9,20.93,0.15,160.11
+ORD-10463,2022-08-06,South,Furniture,Chair,Consumer,3,191.42,0.0,574.26
+ORD-10464,2023-12-09,South,Office Supplies,Labels,Home Office,7,25.38,0.0,177.66
+ORD-10465,2022-09-03,North,Office Supplies,Labels,Consumer,7,22.13,0.15,131.67
+ORD-10466,2022-06-10,West,Furniture,Chair,Home Office,3,204.05,0.0,612.15
+ORD-10467,2023-06-18,North,Technology,Printer,Consumer,10,395.27,0.1,3557.43
+ORD-10468,2022-05-11,North,Office Supplies,Paper,Home Office,4,22.53,0.0,90.12
+ORD-10469,2023-06-27,South,Technology,Monitor,Corporate,11,405.48,0.0,4460.28
+ORD-10470,2023-07-20,South,Office Supplies,Paper,Consumer,11,33.24,0.0,365.64
+ORD-10471,2023-12-28,East,Furniture,Bookcase,Consumer,8,173.77,0.0,1390.16
+ORD-10472,2022-03-10,East,Technology,Monitor,Consumer,8,374.64,0.0,2997.12
+ORD-10473,2023-09-02,South,Technology,Phone,Home Office,7,405.59,0.1,2555.22
+ORD-10474,2022-10-08,East,Office Supplies,Binder,Corporate,1,25.63,0.2,20.5
+ORD-10475,2022-02-18,East,Furniture,Table,Consumer,10,177.82,0.0,1778.2
+ORD-10476,2023-12-08,East,Office Supplies,Pen Set,Home Office,5,21.83,0.0,109.15
+ORD-10477,2023-05-19,North,Technology,Laptop,Corporate,10,235.38,0.0,2353.8
+ORD-10478,2023-07-25,North,Furniture,Table,Corporate,3,203.33,0.0,609.99
+ORD-10479,2022-10-06,East,Furniture,Desk,Consumer,11,167.68,0.2,1475.58
+ORD-10480,2022-01-02,East,Technology,Phone,Corporate,8,296.02,0.0,2368.16
+ORD-10481,2023-07-03,North,Technology,Phone,Corporate,6,231.36,0.0,1388.16
+ORD-10482,2023-06-20,East,Office Supplies,Paper,Corporate,10,29.87,0.0,298.7
+ORD-10483,2023-04-20,North,Technology,Laptop,Corporate,11,297.56,0.0,3273.16
+ORD-10484,2022-08-18,South,Furniture,Desk,Home Office,11,201.15,0.15,1880.75
+ORD-10485,2023-03-24,North,Technology,Phone,Consumer,5,283.69,0.0,1418.45
+ORD-10486,2022-04-09,West,Office Supplies,Binder,Corporate,6,34.74,0.15,177.17
+ORD-10487,2022-12-04,South,Furniture,Table,Consumer,6,199.52,0.15,1017.55
+ORD-10488,2022-09-07,South,Office Supplies,Labels,Consumer,9,19.67,0.0,177.03
+ORD-10489,2023-07-08,West,Furniture,Bookcase,Consumer,2,163.98,0.0,327.96
+ORD-10490,2022-03-23,East,Office Supplies,Binder,Consumer,11,29.27,0.1,289.77
+ORD-10491,2022-10-15,West,Office Supplies,Pen Set,Corporate,7,30.47,0.0,213.29
+ORD-10492,2022-05-21,North,Furniture,Table,Consumer,4,158.8,0.0,635.2
+ORD-10493,2022-07-26,West,Office Supplies,Pen Set,Corporate,5,22.29,0.15,94.73
+ORD-10494,2023-09-27,West,Office Supplies,Pen Set,Consumer,5,34.66,0.0,173.3
+ORD-10495,2022-08-17,East,Office Supplies,Pen Set,Corporate,8,32.24,0.0,257.92
+ORD-10496,2022-02-12,North,Technology,Printer,Home Office,7,384.28,0.2,2151.97
+ORD-10497,2022-08-23,South,Technology,Printer,Corporate,11,316.17,0.15,2956.19
+ORD-10498,2022-07-22,West,Technology,Phone,Home Office,1,320.64,0.0,320.64
+ORD-10499,2023-07-01,West,Office Supplies,Paper,Home Office,2,18.46,0.0,36.92
+ORD-10500,2023-05-12,East,Office Supplies,Labels,Consumer,9,20.97,0.0,188.73
+ORD-10501,2022-12-09,East,Office Supplies,Binder,Consumer,10,27.44,0.0,274.4
+ORD-10502,2023-04-05,North,Furniture,Bookcase,Consumer,5,168.09,0.0,840.45
+ORD-10503,2022-03-29,East,Office Supplies,Binder,Corporate,10,28.71,0.0,287.1
+ORD-10504,2022-12-25,North,Technology,Printer,Corporate,11,264.78,0.0,2912.58
+ORD-10505,2023-01-28,North,Office Supplies,Pen Set,Corporate,10,33.91,0.0,339.1
+ORD-10506,2023-05-02,South,Furniture,Desk,Corporate,8,234.74,0.0,1877.92
+ORD-10507,2022-03-27,North,Furniture,Desk,Consumer,3,202.84,0.15,517.24
+ORD-10508,2023-03-31,East,Furniture,Chair,Consumer,8,181.65,0.15,1235.22
+ORD-10509,2022-08-14,West,Office Supplies,Binder,Home Office,9,17.56,0.0,158.04
+ORD-10510,2022-03-01,South,Technology,Phone,Consumer,7,312.81,0.0,2189.67
+ORD-10511,2022-05-21,West,Furniture,Bookcase,Consumer,3,139.0,0.0,417.0
+ORD-10512,2023-04-13,North,Technology,Monitor,Corporate,7,300.07,0.15,1785.42
+ORD-10513,2022-01-15,East,Technology,Printer,Corporate,9,312.88,0.0,2815.92
+ORD-10514,2023-01-24,East,Technology,Laptop,Consumer,3,274.37,0.0,823.11
+ORD-10515,2022-09-24,East,Office Supplies,Paper,Home Office,3,20.06,0.0,60.18
+ORD-10516,2023-07-15,West,Technology,Phone,Consumer,2,349.85,0.0,699.7
+ORD-10517,2022-11-29,North,Technology,Monitor,Home Office,11,436.05,0.2,3837.24
+ORD-10518,2022-11-26,East,Office Supplies,Paper,Consumer,1,22.65,0.0,22.65
+ORD-10519,2022-12-29,North,Furniture,Table,Consumer,5,134.84,0.0,674.2
+ORD-10520,2022-08-21,South,Furniture,Table,Home Office,8,227.06,0.0,1816.48
+ORD-10521,2022-01-17,East,Furniture,Desk,Consumer,7,151.12,0.0,1057.84
+ORD-10522,2022-07-16,West,Technology,Laptop,Consumer,4,365.96,0.0,1463.84
+ORD-10523,2023-07-14,East,Furniture,Bookcase,Consumer,10,132.47,0.0,1324.7
+ORD-10524,2023-08-16,North,Furniture,Desk,Corporate,1,234.78,0.0,234.78
+ORD-10525,2023-10-25,North,Furniture,Chair,Home Office,4,225.35,0.0,901.4
+ORD-10526,2023-10-17,North,Technology,Monitor,Consumer,5,346.39,0.0,1731.95
+ORD-10527,2023-09-13,West,Technology,Printer,Corporate,11,376.48,0.0,4141.28
+ORD-10528,2022-03-11,South,Technology,Laptop,Home Office,2,374.28,0.0,748.56
+ORD-10529,2023-05-22,North,Office Supplies,Labels,Corporate,2,24.8,0.0,49.6
+ORD-10530,2023-08-26,West,Furniture,Desk,Home Office,2,189.1,0.2,302.56
+ORD-10531,2023-10-21,South,Office Supplies,Paper,Home Office,8,27.81,0.0,222.48
+ORD-10532,2022-09-21,West,Technology,Monitor,Home Office,6,238.63,0.0,1431.78
+ORD-10533,2023-08-10,North,Office Supplies,Paper,Corporate,2,31.75,0.0,63.5
+ORD-10534,2023-02-10,North,Office Supplies,Binder,Corporate,4,31.94,0.0,127.76
+ORD-10535,2023-04-06,North,Furniture,Desk,Corporate,4,176.6,0.0,706.4
+ORD-10536,2023-05-10,South,Furniture,Table,Consumer,9,219.06,0.0,1971.54
+ORD-10537,2022-01-11,West,Office Supplies,Paper,Home Office,11,19.57,0.2,172.22
+ORD-10538,2022-09-30,East,Technology,Printer,Home Office,7,424.56,0.0,2971.92
+ORD-10539,2022-09-08,West,Furniture,Desk,Home Office,6,228.64,0.0,1371.84
+ORD-10540,2022-01-07,South,Office Supplies,Pen Set,Corporate,9,19.63,0.0,176.67
+ORD-10541,2023-10-24,North,Furniture,Desk,Home Office,3,210.19,0.0,630.57
+ORD-10542,2023-10-31,East,Technology,Printer,Corporate,8,280.92,0.0,2247.36
+ORD-10543,2022-04-09,West,Technology,Phone,Corporate,2,351.76,0.1,633.17
+ORD-10544,2022-08-13,West,Office Supplies,Pen Set,Corporate,3,26.82,0.0,80.46
+ORD-10545,2023-03-30,West,Technology,Phone,Home Office,3,406.36,0.1,1097.17
+ORD-10546,2022-06-22,South,Office Supplies,Binder,Consumer,5,24.56,0.0,122.8
+ORD-10547,2022-09-30,South,Office Supplies,Labels,Corporate,7,18.74,0.0,131.18
+ORD-10548,2022-10-03,West,Furniture,Desk,Home Office,2,206.36,0.1,371.45
+ORD-10549,2022-03-04,East,Furniture,Table,Consumer,10,141.15,0.2,1129.2
+ORD-10550,2023-01-11,West,Technology,Phone,Corporate,8,329.4,0.0,2635.2
+ORD-10551,2022-12-15,South,Office Supplies,Binder,Consumer,2,25.1,0.0,50.2
+ORD-10552,2023-07-27,West,Technology,Printer,Consumer,8,312.9,0.1,2252.88
+ORD-10553,2022-02-09,South,Technology,Phone,Home Office,8,233.35,0.0,1866.8
+ORD-10554,2023-05-07,North,Office Supplies,Pen Set,Consumer,6,29.32,0.0,175.92
+ORD-10555,2022-09-09,West,Office Supplies,Labels,Corporate,1,22.27,0.0,22.27
+ORD-10556,2022-07-27,North,Office Supplies,Pen Set,Consumer,6,24.5,0.0,147.0
+ORD-10557,2023-09-08,West,Technology,Printer,Corporate,2,383.66,0.0,767.32
+ORD-10558,2023-10-27,East,Office Supplies,Labels,Corporate,2,21.93,0.0,43.86
+ORD-10559,2023-06-17,North,Technology,Printer,Consumer,2,411.51,0.0,823.02
+ORD-10560,2023-10-22,West,Technology,Phone,Consumer,5,319.07,0.2,1276.28
+ORD-10561,2022-02-25,West,Technology,Monitor,Home Office,3,393.62,0.1,1062.77
+ORD-10562,2022-06-12,West,Office Supplies,Labels,Home Office,4,33.43,0.0,133.72
+ORD-10563,2023-10-10,West,Furniture,Bookcase,Consumer,11,126.76,0.0,1394.36
+ORD-10564,2022-10-07,South,Furniture,Chair,Home Office,2,214.94,0.0,429.88
+ORD-10565,2022-10-27,South,Office Supplies,Pen Set,Corporate,6,22.87,0.0,137.22
+ORD-10566,2022-07-20,West,Technology,Printer,Consumer,4,305.05,0.0,1220.2
+ORD-10567,2023-01-21,East,Technology,Printer,Corporate,1,302.16,0.0,302.16
+ORD-10568,2023-08-07,South,Furniture,Bookcase,Home Office,5,241.36,0.0,1206.8
+ORD-10569,2023-02-01,South,Furniture,Bookcase,Home Office,6,147.45,0.0,884.7
+ORD-10570,2022-02-03,North,Office Supplies,Binder,Home Office,5,24.62,0.0,123.1
+ORD-10571,2022-08-25,South,Furniture,Chair,Corporate,5,136.78,0.15,581.31
+ORD-10572,2023-03-21,South,Technology,Laptop,Home Office,8,318.98,0.0,2551.84
+ORD-10573,2022-12-03,North,Furniture,Bookcase,Consumer,10,151.67,0.0,1516.7
+ORD-10574,2022-09-25,West,Office Supplies,Labels,Corporate,10,21.11,0.0,211.1
+ORD-10575,2023-03-26,South,Office Supplies,Labels,Consumer,4,32.93,0.0,131.72
+ORD-10576,2023-09-11,South,Office Supplies,Pen Set,Corporate,7,21.3,0.1,134.19
+ORD-10577,2022-10-20,North,Office Supplies,Paper,Consumer,3,21.76,0.0,65.28
+ORD-10578,2023-04-04,North,Technology,Monitor,Home Office,1,267.05,0.0,267.05
+ORD-10579,2022-04-06,North,Furniture,Chair,Consumer,11,173.04,0.0,1903.44
+ORD-10580,2023-08-03,South,Office Supplies,Paper,Consumer,4,24.12,0.0,96.48
+ORD-10581,2022-09-17,East,Technology,Monitor,Home Office,9,333.62,0.15,2552.19
+ORD-10582,2022-07-16,North,Office Supplies,Binder,Corporate,5,21.49,0.2,85.96
+ORD-10583,2023-02-07,West,Office Supplies,Paper,Home Office,10,31.59,0.0,315.9
+ORD-10584,2023-04-24,East,Office Supplies,Paper,Consumer,5,34.4,0.15,146.2
+ORD-10585,2022-12-18,East,Furniture,Chair,Home Office,10,131.29,0.0,1312.9
+ORD-10586,2023-10-10,North,Technology,Laptop,Corporate,1,271.3,0.0,271.3
+ORD-10587,2023-10-01,South,Technology,Monitor,Consumer,2,304.52,0.0,609.04
+ORD-10588,2023-12-03,North,Furniture,Chair,Home Office,6,207.4,0.1,1119.96
+ORD-10589,2023-02-01,South,Office Supplies,Binder,Corporate,1,32.72,0.0,32.72
+ORD-10590,2023-03-05,North,Furniture,Chair,Consumer,9,162.91,0.2,1172.95
+ORD-10591,2023-05-09,West,Technology,Printer,Home Office,6,239.94,0.0,1439.64
+ORD-10592,2022-11-18,West,Technology,Monitor,Corporate,11,263.94,0.0,2903.34
+ORD-10593,2022-05-31,South,Furniture,Desk,Home Office,2,247.93,0.15,421.48
+ORD-10594,2023-02-28,South,Technology,Laptop,Corporate,1,405.89,0.15,345.01
+ORD-10595,2022-12-15,North,Furniture,Desk,Home Office,1,126.7,0.0,126.7
+ORD-10596,2022-12-16,West,Technology,Printer,Consumer,3,427.36,0.2,1025.66
+ORD-10597,2023-02-24,South,Technology,Laptop,Consumer,8,268.45,0.0,2147.6
+ORD-10598,2023-07-18,East,Office Supplies,Pen Set,Corporate,11,24.28,0.0,267.08
+ORD-10599,2022-09-26,West,Technology,Monitor,Consumer,10,356.3,0.0,3563.0
