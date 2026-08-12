@@ -12,6 +12,7 @@ class GroqClient:
             model=self.model,
             messages=messages,
             tools=tools,
+            temperature=0,
         )
         message = response.choices[0].message
         return {

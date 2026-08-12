@@ -102,8 +102,10 @@ class PandasSandbox:
                 pickle.dump({{"df": g["df"]}}, f)
 
             output = buf.getvalue()
-            result_repr = repr(g.get("result")) if "result" in g else None
-            print(json.dumps({{"stdout": output, "result": result_repr}}))
+            raw_result = g.get("result") if "result" in g else None
+            if isinstance(raw_result, np.generic):
+                raw_result = raw_result.item()
+            print(json.dumps({{"stdout": output, "result": raw_result}}, default=str))
         """)
 
         result = subprocess.run(
