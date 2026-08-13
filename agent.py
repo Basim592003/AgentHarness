@@ -14,10 +14,24 @@ SYSTEM_PROMPT = (
     "only works on a Series, not a scalar Timestamp. "
     "Use run_pandas_code to compute answers, never guess a number. If it returns "
     "an error, fix the code and try again rather than submitting an answer. "
+    "Always assign a single scalar (a plain string, int, or float - e.g. "
+    "df.loc[idx, 'region'], not a DataFrame or Series) to result, even if you "
+    "needed a DataFrame to get there. "
     "Once run_pandas_code succeeds, its JSON output has a 'result' field holding "
     "the computed value - copy that exact value into submit_answer's answer "
     "field."
 )
+
+
+def _is_checkable_scalar(value):
+    return isinstance(value, (str, int, float, bool)) and "\n" not in str(value) and len(str(value)) < 200
+
+
+def _answer_matches_result(last_result, answer, tolerance):
+    try:
+        return abs(float(answer) - float(last_result)) <= tolerance
+    except (TypeError, ValueError):
+        return str(last_result).strip().lower() in str(answer).strip().lower()
 
 
 def run(task, llm, max_steps=8, max_consecutive_failures=3):
@@ -63,7 +77,8 @@ def run(task, llm, max_steps=8, max_consecutive_failures=3):
             elif (
                 name == "submit_answer"
                 and last_result is not None
-                and str(last_result).strip().lower() not in str(args.get("answer", "")).strip().lower()
+                and _is_checkable_scalar(last_result)
+                and not _answer_matches_result(last_result, args.get("answer", ""), task.tolerance)
             ):
                 ok, result = False, (
                     f"submit_answer rejected: your last successful run_pandas_code call "

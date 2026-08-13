@@ -1,3 +1,6 @@
+import json
+
+
 def is_numeric(text):
     try:
         float(text)
@@ -24,12 +27,26 @@ def check_groundedness(traj):
         return None
 
     answer_text = traj.final_answer.strip().lower()
+    answer_is_numeric = is_numeric(traj.final_answer)
+
     for i, step in enumerate(traj.steps):
         if step.kind != "tool_call" or step.content.get("name") != "run_pandas_code":
             continue
         result_step = traj.steps[i + 1] if i + 1 < len(traj.steps) else None
-        if result_step and result_step.ok and answer_text in str(result_step.content).strip().lower():
+        if not (result_step and result_step.ok):
+            continue
+
+        if answer_text in str(result_step.content).strip().lower():
             return True
+
+        if answer_is_numeric:
+            try:
+                computed = json.loads(result_step.content).get("result")
+            except (json.JSONDecodeError, TypeError, AttributeError):
+                continue
+            if is_numeric(computed) and abs(float(computed) - float(traj.final_answer)) <= traj.task.tolerance:
+                return True
+
     return False
 
 
