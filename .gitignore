@@ -1,2 +1,4 @@
 .env
 /trajectories
+*.txt
+AI_USAGE.md
